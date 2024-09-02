@@ -1,0 +1,1 @@
+This program will function as a desktop notification system with the primary focus on historical/motivational quotes. It will function by displaying a notification with a quote as the message at a given time or during a certain action. It will utilize lists in order to pull quotes rather than any external files such as excel spreadsheets. 
